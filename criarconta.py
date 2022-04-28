@@ -1,6 +1,5 @@
 from conta import Conta
 
-
 class CriarConta:
     if __name__ == '__main__':
         conta = Conta('21.324-7')
