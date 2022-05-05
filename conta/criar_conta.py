@@ -1,6 +1,6 @@
 # criar conta
 
-from src.conta.conta import Conta
+from conta.conta import Conta
 
 class CriarConta:
     if __name__ == '__main__':

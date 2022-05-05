@@ -1,6 +1,6 @@
 # conta poupanca
 
-from src.conta.conta import Conta
+from conta.conta import Conta
 
 class ContaPoupanca(Conta):
     def __int__(self, numero):
