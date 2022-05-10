@@ -1,7 +1,7 @@
 # criar poupanca
-from src.conta.conta import Conta
-from src.conta.conta import ContaPoupanca
 
+from src.conta.conta_poupanca import ContaPoupanca
+from src.conta.conta import Conta
 
 class CriarPoupanca:
     if __name__ == '__main__':

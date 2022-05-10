@@ -1,7 +1,7 @@
 # VERIFICAR CONTA
-from src.conta.conta import Conta
-from src.conta.conta_poupanca import ContaPoupanca
 
+from src.conta.conta import Conta
+from src.conta.conta import ContaPoupanca
 
 class VerificarPoupanca:
     if __name__ == '__main__':
