@@ -23,6 +23,5 @@ class Conta:
     def set_saldo(self, saldo):
         self.__saldo = saldo
 
-
 class ContaPoupanca:
     pass
